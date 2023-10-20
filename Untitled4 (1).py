@@ -15,22 +15,8 @@ g=gcd(n1,n2)
 print("gcd(num1,num2):",g)
 
 
-# In[ ]:
 
 
-def hello():
-    print("Hello world")
-hello()
-
-
-# In[15]:
-
-
-def sum():
-    print("sum is",a+b)
-a=int(input("Enter first number:"))
-b=int(input("Enter second number:"))
-sum()
     
     
 
@@ -47,7 +33,7 @@ print("Display the numbers after removing even numbers")
 print(list)
 
 
-# In[ ]:
+
 
 
 
